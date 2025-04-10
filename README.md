@@ -21,7 +21,7 @@ Berikut adalah alat yang saya gunakan untuk merancang PCB:
 
 Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
 
-1. **Proyek 1: Smart Laundry Payment**
+1. **Smart Laundry Payment**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
    - Tools yang digunakan: Kicad
    - Fitur utama: Smart Payment Menggunakan QRIS & NFC
@@ -35,7 +35,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
-2. **Proyek 2: NFC Smart Payment**
+2. **NFC Smart Payment**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital khusus NFC.
    - Tools yang digunakan: Kicad
    - Fitur utama: Smart Payment Menggunakan NFC
@@ -49,7 +49,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
-3. **Proyek 3: Matrix Module**
+3. **Matrix Module**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol LED Matrix.
    - Tools yang digunakan: Kicad
    - Fitur utama: Kontrol LED Matrix 8CH
@@ -63,7 +63,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
-4. **Proyek 4: H-Bridge Controller**
+4. **H-Bridge Controller**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol linier aktuator dengan driver H-Bridge.
    - Tools yang digunakan: Kicad
    - Fitur utama: Kontrol Linier Aktuator
@@ -77,7 +77,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
-5. **Proyek 5: Fan Speed Controller**
+5. **Fan Speed Controller**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol kipas axial 4 wire berdasarkan parameter suhu.
    - Tools yang digunakan: Kicad
    - Fitur utama: Kontrol Axial Fan Manual & Otomatis
@@ -88,6 +88,35 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
        <td><img src='img/05 Design Fan Speed Controller.jpg' width='300' /></td>
        <td><img src='img/05 Hardware Fan Speed Controller.jpg' width='300' /></td>
        <td><img src='img/05 Hardware Fan Speed Controller 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+6. **Basuri Module**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol terompet basuri pada variasi bus.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Kontrol 6CH Terompet
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/06 Layout Basuri Module.jpg' width='300' /></td>
+       <td><img src='img/06 Design Basuri Module.jpg' width='300' /></td>
+       <td><img src='img/06 Hardware Basuri Module.jpg' width='300' /></td>
+       <td><img src='img/06 Hardware Basuri Module 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+6. **Flowmeter Module**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol depot air minum dengan pembayaran QRIS.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Kontrol Flowmeter pada depot air minum, Pembayaran cashless dengan QRIS
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/07 Layout Flowmeter Module.jpg' width='300' /></td>
+       <td><img src='img/07 Design Flowmeter Module.jpg' width='300' /></td>
+       <td><img src='img/07 Design Flowmeter Module 2.jpg' width='300' /></td>
+       <td><img src='img/07 Hardware Flowmeter Module.jpg' width='300' /></td>
+       <td><img src='img/07 Hardware Flowmeter Module 2.jpg' width='300' /></td>
      </tr>
    </table>
 
