@@ -18,6 +18,19 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
+2. **Proyek 2: NFC Smart Payment**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital khusus NFC.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Smart Payment Menggunakan NFC
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/02 Design NFC.jpg' width='300' /></td>
+       <td><img src='img/02 Hardware NFC.jpg' width='300' /></td>
+       <td><img src='img/02 Hardware NFC 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
 ## Tools yang Digunakan
 
 Berikut adalah alat yang saya gunakan untuk merancang PCB:
