@@ -21,7 +21,7 @@ Berikut adalah alat yang saya gunakan untuk merancang PCB:
 
 Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
 
-1. **Smart Laundry Payment**
+1. **Smart Laundry Payment V3**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
    - Tools yang digunakan: Kicad
    - Fitur utama: Smart Payment Menggunakan QRIS & NFC
@@ -104,7 +104,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
        <td><img src='img/06 Hardware Basuri Module 2.jpg' width='300' /></td>
      </tr>
    </table>
-
+ 
 6. **Flowmeter Module**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol depot air minum dengan pembayaran QRIS.
    - Tools yang digunakan: Kicad
@@ -117,6 +117,33 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
        <td><img src='img/07 Design Flowmeter Module 2.jpg' width='300' /></td>
        <td><img src='img/07 Hardware Flowmeter Module.jpg' width='300' /></td>
        <td><img src='img/07 Hardware Flowmeter Module 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+8. **Smart Laundry Payment V2**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Smart Payment Menggunakan QRIS & NFC
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/08 Layout Smart Laundry V2.jpg' width='300' /></td>
+       <td><img src='img/08 Design Smart Laundry V2.jpg' width='300' /></td>
+       <td><img src='img/08 Hardware Smart Laundry V2.jpg' width='300' /></td>
+       <td><img src='img/08 Hardware Smart Laundry 2 V2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+8. **Smart Laundry Payment V1**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Smart Payment Menggunakan QRIS & NFC
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/09 Layout Smart Laundry V1.jpg' width='300' /></td>
+       <td><img src='img/09 Design Smart Laundry V1.jpg' width='300' /></td>
+       <td><img src='img/09 Hardware Smart Laundry V1.jpg' width='300' /></td>
      </tr>
    </table>
 
