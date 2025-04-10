@@ -9,7 +9,8 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
    - Tools yang digunakan: Kicad
    - Fitur utama: Smart Payment Menggunakan QRIS & NFC
-   - Gambar: <img src='img/01 Design Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry 2.jpg' width='300' />
+   - Gambar:
+   <img src='img/01 Design Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry 2.jpg' width='300' />
 
 ## Tools yang Digunakan
 
