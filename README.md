@@ -10,7 +10,9 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
    - Tools yang digunakan: Kicad
    - Fitur utama: Smart Payment Menggunakan QRIS & NFC
    - Gambar:
-   <img src='img/01 Design Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry 2.jpg' width='300' />
+   |  |  |  |
+   | ------- | ------- | ------- |
+   | <img src='img/01 Design Smart Laundry.jpg' width='300' /> | <img src='img/01 Hardware Smart Laundry.jpg' width='300' /> | <img src='img/01 Hardware Smart Laundry 2.jpg' width='300' /> |
 
 ## Tools yang Digunakan
 
