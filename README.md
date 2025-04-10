@@ -57,9 +57,9 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
    <table>
      <tr>
        <td><img src='img/03 Layout Matrix Module.jpg' width='300' /></td>
-       <td><img src='img/02 Design Matrix Module.jpg' width='300' /></td>
-       <td><img src='img/02 Hardware Matrix Module.jpg' width='300' /></td>
-       <td><img src='img/02 Hardware Matrix Module 2.jpg' width='300' /></td>
+       <td><img src='img/03 Design Matrix Module.jpg' width='300' /></td>
+       <td><img src='img/03 Hardware Matrix Module.jpg' width='300' /></td>
+       <td><img src='img/03 Hardware Matrix Module 2.jpg' width='300' /></td>
      </tr>
    </table>
 
