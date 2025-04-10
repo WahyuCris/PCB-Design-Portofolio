@@ -49,6 +49,19 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
+3. **Proyek 3: Matrix Module**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol LED Matrix.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Kontrol LED Matrix 8CH
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/03 Layout Matrix Module.jpg' width='300' /></td>
+       <td><img src='img/02 Design Matrix Module.jpg' width='300' /></td>
+       <td><img src='img/02 Hardware Matrix Module.jpg' width='300' /></td>
+       <td><img src='img/02 Hardware Matrix Module 2.jpg' width='300' /></td>
+     </tr>
+   </table>
 
 
 ## Hubungi Saya
