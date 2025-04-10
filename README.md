@@ -63,6 +63,33 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
+4. **Proyek 4: H-Bridge Controller**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol linier aktuator dengan driver H-Bridge.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Kontrol Linier Aktuator
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/04 Layout H-Bridge.jpg' width='300' /></td>
+       <td><img src='img/04 Design H-Bridge.jpg' width='300' /></td>
+       <td><img src='img/04 Hardware H-Bridge.jpg' width='300' /></td>
+       <td><img src='img/04 Hardware H-Bridge 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+5. **Proyek 5: Fan Speed Controller**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol kipas axial 4 wire berdasarkan parameter suhu.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Kontrol Axial Fan Manual & Otomatis
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/05 Layout Fan Speed Controller.jpg' width='300' /></td>
+       <td><img src='img/05 Design Fan Speed Controller.jpg' width='300' /></td>
+       <td><img src='img/05 Hardware Fan Speed Controller.jpg' width='300' /></td>
+       <td><img src='img/05 Hardware Fan Speed Controller 2.jpg' width='300' /></td>
+     </tr>
+   </table>
 
 ## Hubungi Saya
 
