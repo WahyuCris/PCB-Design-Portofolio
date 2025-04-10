@@ -5,11 +5,11 @@ Selamat datang di portofolio desain PCB saya! Di sini, Anda dapat melihat berbag
 
 Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
 
-1. **Proyek 1: [Nama Proyek]**
-   - Deskripsi: Desain PCB untuk [deskripsi singkat tentang proyek]
-   - Tools yang digunakan: [Alat perangkat lunak yang digunakan, misalnya Eagle, Altium Designer, KiCad, dsb.]
-   - Fitur utama: [Fitur atau keunikan proyek ini]
-   - Gambar: | <img src='img/1.png' width='300' /> |
+1. **Proyek 1: Smart Laundry Payment**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Smart Payment Menggunakan QRIS & NFC
+   - Gambar: <img src='img/01 Design Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry.jpg' width='300' /> <img src='img/01 Hardware Smart Laundry 2.jpg' width='300' />
 
 ## Tools yang Digunakan
 
