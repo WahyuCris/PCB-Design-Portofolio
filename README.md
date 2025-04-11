@@ -105,7 +105,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
  
-6. **Flowmeter Module**
+7. **Flowmeter Module**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol depot air minum dengan pembayaran QRIS.
    - Tools yang digunakan: Kicad
    - Fitur utama: Kontrol Flowmeter pada depot air minum, Pembayaran cashless dengan QRIS
@@ -171,6 +171,33 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
        <td><img src='img/11 Layout Greenhouse Module.jpg' width='300' /></td>
        <td><img src='img/11 Design Greenhouse Module.jpg' width='300' /></td>
        <td><img src='img/11 Hardware Greenhouse Module.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+12. **Minimum System ESP32**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada Minimum System ESP32.
+   - Tools yang digunakan: EasyEDA Pro
+   - Fitur utama: -
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/12 Layout Minsis ESP32.jpg' width='300' /></td>
+       <td><img src='img/12 Layout Minsis ESP32 2.jpg' width='300' /></td>
+       <td><img src='img/12 Design Minsis ESP32.jpg' width='300' /></td>
+       <td><img src='img/12 Design Minsis ESP32 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+13. **16 CH Expander Relay**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada modul expand relay 16 CH.
+   - Tools yang digunakan: EasyEDA Pro
+   - Fitur utama: Sistem kontrol relay tambahan 16CH
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/13 Layout Expander Relay.jpg' width='300' /></td>
+       <td><img src='img/13 Design Expander Relay.jpg' width='300' /></td>
+       <td><img src='img/13 Design Expander Relay 2.jpg' width='300' /></td>
      </tr>
    </table>
 
