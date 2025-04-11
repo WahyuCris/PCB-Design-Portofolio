@@ -134,7 +134,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
      </tr>
    </table>
 
-8. **Smart Laundry Payment V1**
+9. **Smart Laundry Payment V1**
    - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem laundry modern yang terintegrasi dengan teknologi pembayaran digital seperti QRIS dan NFC. Sistem ini memungkinkan pelanggan untuk melakukan transaksi dengan mudah dan cepat tanpa uang tunai, meningkatkan efisiensi dan kenyamanan dalam proses pembayaran.
    - Tools yang digunakan: Kicad
    - Fitur utama: Smart Payment Menggunakan QRIS & NFC
@@ -144,6 +144,33 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
        <td><img src='img/09 Layout Smart Laundry V1.jpg' width='300' /></td>
        <td><img src='img/09 Design Smart Laundry V1.jpg' width='300' /></td>
        <td><img src='img/09 Hardware Smart Laundry V1.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+10. **Matrix Relay Module 16CH**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol LED Matrix 16 Chanel menggunakan relay.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: 16 CH Kontrol LED Matrix 10A
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/10 Layout Matrix Relay.jpg' width='300' /></td>
+       <td><img src='img/10 Deign Matrix Relay.jpg' width='300' /></td>
+       <td><img src='img/10 Hardware Matrix Relay.jpg' width='300' /></td>
+       <td><img src='img/10 Hardware Matrix Relay 2.jpg' width='300' /></td>
+     </tr>
+   </table>
+
+11. **Greenhouse Module**
+   - Deskripsi: Proyek ini berfokus pada pengembangan dan desain PCB pada sistem kontrol iklim pada Greenhouse meliputi Temperature, Kelembapan, dan Intensitas Cahaya.
+   - Tools yang digunakan: Kicad
+   - Fitur utama: Kontrol Temperature, Kelembapan, dan Intensitas Cahaya.
+   - Gambar:
+   <table>
+     <tr>
+       <td><img src='img/11 Layout Greenhouse Module.jpg' width='300' /></td>
+       <td><img src='img/11 Deign Greenhouse Module.jpg' width='300' /></td>
+       <td><img src='img/11 Hardware Greenhouse Module.jpg' width='300' /></td>
      </tr>
    </table>
 
