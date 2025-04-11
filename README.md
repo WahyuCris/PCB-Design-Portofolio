@@ -155,7 +155,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
    <table>
      <tr>
        <td><img src='img/10 Layout Matrix Relay.jpg' width='300' /></td>
-       <td><img src='img/10 Deign Matrix Relay.jpg' width='300' /></td>
+       <td><img src='img/10 Design Matrix Relay.jpg' width='300' /></td>
        <td><img src='img/10 Hardware Matrix Relay.jpg' width='300' /></td>
        <td><img src='img/10 Hardware Matrix Relay 2.jpg' width='300' /></td>
      </tr>
@@ -169,7 +169,7 @@ Berikut adalah beberapa proyek PCB yang telah saya kerjakan:
    <table>
      <tr>
        <td><img src='img/11 Layout Greenhouse Module.jpg' width='300' /></td>
-       <td><img src='img/11 Deign Greenhouse Module.jpg' width='300' /></td>
+       <td><img src='img/11 Design Greenhouse Module.jpg' width='300' /></td>
        <td><img src='img/11 Hardware Greenhouse Module.jpg' width='300' /></td>
      </tr>
    </table>
